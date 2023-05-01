@@ -1,0 +1,12 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+.primero{
+    display: flex;
+}
+
+.tercero{
+    margin-left: 15px;
+}
