@@ -1,24 +1,24 @@
 body {
-    background-color:gray;
-    padding: 10%;
+    align-items: center;
+    margin-left: 25px;
 }
 
 .obtener {
     cursor: pointer;
     height: 25px;
-    background-color: cornsilk;
     border: none;
     border-radius: 12px;
+    border: 1px solid black;
 }
 
 .limpiar {
     cursor: pointer;
     height: 25px;
-    background-color: cadetblue;
     border: none;
     border-radius: 12px;
+    border: 1px solid black;
 }
 
 p{
-    background-color: rgb(195, 192, 223);
+    border: 1px solid black; /* establece un borde negro sólido de 1px de ancho */
 }
